@@ -14,7 +14,10 @@ I graduated as a Multimedia Designer from ISEC in 2015 and have since pursued fu
 <a href="https://photoshop.adobe.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Photoshop.svg" alt="photshop" width="40" height="40"/> </a> <a href="https://adobe.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Illustrator.svg" alt="ilustrator" width="40" height="40"/> </a> <a href="https://github.com" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Github-Dark.svg" alt="github" width="40" height="40"/></a> <a href="https://postman.com" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Postman.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.cypress.io/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Cypress-Light.svg" alt="cypress" width="40" height="40"/> </a> </p><br>
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Cypress-Light.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://www.notion.com/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Notion-Light.svg" alt="notion" width="40" height="40"/> </a> <a href="https://www.adobe.com/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Premiere.svg" alt="premier" width="40" height="40"/></a> <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Selenium.svg" alt="selenium" width="40" height="40"/> </a></p><br>
 
 
 <hr width="36%" >
