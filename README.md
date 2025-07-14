@@ -27,7 +27,7 @@ I graduated as a Multimedia Designer from ISEC in 2015 and have since pursued fu
 <br>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anii693&show_icons=true&theme=dark&locale=en&layout=compact" alt="anii693" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anii693&show_icons=true&theme=dark&locale=en&layout=compact" /></p>
 
 <br><br><br><br><br><br><br>
 
