@@ -40,7 +40,7 @@ I graduated as a Multimedia Designer from ISEC in 2015 and have since pursued fu
 <p align="left">
 <a href="https://www.linkedin.com/in/veronica-mariela-stanislavsky/" target="blank"><img align="center" src="https://camo.githubusercontent.com/8c0692475a5bfc1d9e7361074bdb648e567cae7b5b40ffd32adae31180b0d7b6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="anirudh-rai-072732220" max-width="100%" /></a>
 <a href="mailto:vmstani@gmail.com" target="blank"><img align="center" src="https://camo.githubusercontent.com/e5cfad4cbb1e023463333923b069b81749d94e8ff5722f851c7bb01d65bb0e95/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" alt="gmail" max-width="100%" /></a>  
-  <a href="https://www.behance.net/phstanis" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/behance/behance-icon.svg" alt="Behance" max-width="100%" /></a>
+  <a href="https://www.behance.net/phstanis" target="blank"><img align="center" src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" max-width="100%" /></a>
 </p>
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anii693&label=Profile%20views&color=0e75b6&style=flat" alt="anii693" /> </p>
