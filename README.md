@@ -1,10 +1,5 @@
 <h1 align="center">Hi 👋, I'm Verónica</h1>
 
-
-
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 🌱 A passionate Designer
 I graduated as a Multimedia Designer from ISEC in 2015 and have since pursued further training in User Experience Design. Passionate about design, especially in creating models and prototypes, my approach focuses on finding solutions that enhance people's quality of life through products or services. Known for being creative and detail-oriented, I enjoy every stage of the design process, from researching and empathizing with users to proposing innovative ideas. A strong curiosity drives me to continually learn new tools that support my work.
 
