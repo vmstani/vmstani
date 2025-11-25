@@ -14,12 +14,6 @@ I’m known for being detail-oriented, creative, and curious. I'm always explori
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Premiere.svg" alt="premier" width="40" height="40"/></a> <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Selenium.svg" alt="selenium" width="40" height="40"/> </a></p><br>
 
-
-<hr width="36%" >
-
-
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=anii693&theme=dark" alt="anii693" /></p>
-<br><br><br><br><br><br><br><br><br><br>
 <hr width="60%" >
 <h3 align="left">Connect with me:</h3>
 <p align="left">
