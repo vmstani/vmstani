@@ -17,8 +17,8 @@ I’m known for being detail-oriented, creative, and curious. I'm always explori
 <hr width="60%" >
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-Linkedin <a href="https://www.linkedin.com/in/veronica-mariela-stanislavsky/" target="blank"></a>
-E-mail <a href="mailto:vmstani@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt="Gmail max-width="100%"/></a>  
+ <a href="https://www.linkedin.com/in/veronica-mariela-stanislavsky/" target="blank"> <img align="centre" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" max-width="100%" alt="Linkedin"/></a>
+ <a href="mailto:vmstani@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" max-width="100%"/></a>  
   <a href="https://www.behance.net/phstanis" target="blank"><img align="center" src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" max-width="100%" /></a>
 </p>
 
