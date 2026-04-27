@@ -34,7 +34,7 @@ I enjoy working across the entire design process — from understanding user pro
 <h2 align="center">🛠️ Tech Stack</h2>
 
 <h3>🎨 Design</h3>
-<p align="center">
+<p align="right">
 <a href="https://www.figma.com/"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Dark.svg" width="40"/></a>
 <a href="https://www.adobe.com/"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Photoshop.svg" width="40"/></a>
 <a href="https://www.adobe.com/"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Illustrator.svg" width="40"/></a>
@@ -42,7 +42,7 @@ I enjoy working across the entire design process — from understanding user pro
 </p>
 
 <h3>💻 Frontend</h3>
-<p align="center">
+<p align="right">
 <a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/></a>
 <a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/></a>
@@ -52,7 +52,10 @@ I enjoy working across the entire design process — from understanding user pro
 </p>
 
 <h3>🧰 Tools</h3>
-<p align="center">
+<p align="right">
+<a href="https://postman.com"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Postman.svg" width="40"/></a>
+<a href="https://www.cypress.io/"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Cypress-Light.svg" width="40"/></a>
+<a href="https://www.selenium.dev/"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Selenium.svg" width="40"/></a>
 <a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/></a>
 <a href="https://github.com"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" width="40"/></a>
 <a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Light.svg" width="40"/></a>
