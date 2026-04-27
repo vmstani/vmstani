@@ -1,13 +1,10 @@
 <h1 align="center">Hi 👋, I'm Verónica</h1>
 
 <p align="center">
-Designer passionate about creating solutions that improve people's lives through functional, intuitive, and meaningful digital products.
+Designer passionate about creating solutions that improve people's lives through functional, intuitive, and meaningful products and services.
+With experience in wireframing and prototyping, I enjoy every stage of the process—from research and user empathy to ideation and validation.
+I’m known for being detail-oriented, creative, and curious. I'm always exploring new tools and methodologies to optimize my work and bring value to the teams I collaborate with.
 </p>
-
-<p align="center">
-I combine <b>UX/UI Design</b>, <b>QA mindset</b>, and <b>user-centered thinking</b> to build scalable and high-quality experiences.
-</p>
-
 ---
 
 <h2 align="center">🧠 About Me</h2>
